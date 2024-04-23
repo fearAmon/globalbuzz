@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="71" height="71" viewBox="0 0 71 71">
+  <defs>
+    <style>
+      .cls-1 {
+        filter: url(#filter);
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+    <filter id="filter" filterUnits="userSpaceOnUse">
+      <feFlood result="flood"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g class="cls-1">
+    <g>
+      <rect class="cls-2" width="24" height="24"/>
+      <rect id="Rectangle_1_copy" data-name="Rectangle 1 copy" class="cls-2" x="47" width="24" height="24"/>
+      <rect id="Rectangle_1_copy_2" data-name="Rectangle 1 copy 2" class="cls-2" y="47" width="24" height="24"/>
+      <rect id="Rectangle_1_copy_2-2" data-name="Rectangle 1 copy 2" class="cls-2" x="47" y="47" width="24" height="24"/>
+    </g>
+  </g>
+</svg>
